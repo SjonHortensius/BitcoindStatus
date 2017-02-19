@@ -1,0 +1,6 @@
+[submodule "library/TooBasic-Rpc"]
+	path = library/TooBasic-Rpc
+	url = https://github.com/SjonHortensius/TooBasic-Rpc
+[submodule "library/TooBasic"]
+	path = library/TooBasic
+	url = https://github.com/SjonHortensius/TooBasic
