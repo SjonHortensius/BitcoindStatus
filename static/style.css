@@ -1,0 +1,20 @@
+html
+{
+	background-image: url(network.png);
+	background-attachment: fixed;
+}
+
+body
+{
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+table#peers td:nth-child(5)
+{
+	max-width: 250px;
+
+	text-overflow: ellipsis;
+	/* Required for text-overflow to do anything */
+	white-space: nowrap;
+	overflow: hidden;
+}
